@@ -55,7 +55,7 @@ network flows, system architectures, user flows, protocols, and business logic.
 _Disclaimer: There are neither product nor project names in this section. This
 section's goal is to describe circumstances and problems that mostly stem from
 the community's experience. For information purposes, there is a preliminary
-comparision of ORY Kratos and other projects and products available at
+comparison of ORY Kratos and other projects and products available at
 [Comparison](../further-reading/comparison.md)_.
 
 Full-stack IAM is usually sold as a one-size-fits-all solution. Due to size and
